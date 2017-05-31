@@ -1,3 +1,19 @@
 baseURL = "http://thetragedyofobiwankenobi.com/"
 languageCode = "en-us"
 title = "The Tragedy of Obi-Wan Kenobi"
+copyright = "Dave Stagner"
+
+[params]
+	copyright = "Dave Stagner"
+[[params.social]]
+	title = "email"
+	icon = "envelope-o"
+	url = "mailto:dave@spnz.org"
+[[params.social]]
+	title = "twitter"
+	icon = "twitter"
+	url = "https://twitter.com/tragicobiwan"
+[[params.social]]
+	title = "facebook"
+	icon = "facebook"
+	url = "https://www.facebook.com/TheTragedyOfObiWanKenobi"
