@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Tragedy of Obi-Wan Kenobi</title>
-    <link>http://thetragedyofobiwankenobi.com/index.xml</link>
-    <description>Recent content on The Tragedy of Obi-Wan Kenobi</description>
+    <title>Services on The Tragedy of Obi-Wan Kenobi</title>
+    <link>http://thetragedyofobiwankenobi.com/services/index.xml</link>
+    <description>Recent content in Services on The Tragedy of Obi-Wan Kenobi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Dave Stagner</copyright>
     <lastBuildDate>Wed, 31 May 2017 01:36:02 -0500</lastBuildDate>
-    <atom:link href="http://thetragedyofobiwankenobi.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://thetragedyofobiwankenobi.com/services/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>director</title>
@@ -85,16 +85,6 @@
 &lt;li&gt;Friday Aug 11 4:00pm&lt;/li&gt;
 &lt;li&gt;Sunday Aug 13 7:00pm&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://thetragedyofobiwankenobi.com/about/about/</link>
-      <pubDate>Tue, 30 May 2017 23:55:49 -0500</pubDate>
-      
-      <guid>http://thetragedyofobiwankenobi.com/about/about/</guid>
-      <description>&lt;p&gt;The Tragedy of Obi-Wan Kenobi is being presented at the 2017 Minnesota Fringe Festival. Cringe in awe.&lt;/p&gt;
 </description>
     </item>
     

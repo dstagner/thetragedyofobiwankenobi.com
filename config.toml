@@ -1,6 +1,7 @@
 baseURL = "http://thetragedyofobiwankenobi.com/"
 languageCode = "en-us"
 title = "The Tragedy of Obi-Wan Kenobi"
+description = "What if Obi-Wan Kenobi was actually the villain?"
 copyright = "Dave Stagner"
 
 [params]

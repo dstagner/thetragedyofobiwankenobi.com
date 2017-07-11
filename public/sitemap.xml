@@ -2,7 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://thetragedyofobiwankenobi.com/services/director/</loc>
+    <lastmod>2017-05-31T01:36:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thetragedyofobiwankenobi.com/services/crew/</loc>
+    <lastmod>2017-05-31T01:35:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thetragedyofobiwankenobi.com/services/cast/</loc>
+    <lastmod>2017-05-31T01:19:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thetragedyofobiwankenobi.com/services/schedule/</loc>
+    <lastmod>2017-05-31T01:17:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thetragedyofobiwankenobi.com/about/about/</loc>
+    <lastmod>2017-05-30T23:55:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://thetragedyofobiwankenobi.com/about/</loc>
+    <lastmod>2017-05-30T23:55:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://thetragedyofobiwankenobi.com/services/</loc>
+    <lastmod>2017-05-31T01:36:02-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://thetragedyofobiwankenobi.com/</loc>
+    <lastmod>2017-05-31T01:36:02-05:00</lastmod>
     <priority>0</priority>
   </url>
   
